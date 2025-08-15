@@ -1,0 +1,7 @@
+ARGUMENTS IN C 
+
+flags = 
+  loop over every arg, if arg starts with a dash (-) 
+  read the rest of the string, interpret, and set a bitflag
+  or something
+
